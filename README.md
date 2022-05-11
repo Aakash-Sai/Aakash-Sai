@@ -1,7 +1,7 @@
 ## Hi there, I'm Aakash 👋
 - 📕 Currently pursuing my 3rd year in B.Sc Computer Science and Engineering at [Bits Pilani Dubai Campus](https://www.bits-pilani.ac.in/Dubai/index.aspx).
-- 😣 Currently trying to keep my sanity in check.
-- 🥅 Goals for 2022: Start a new personal project, GRE prep.
+//- 😣 Currently trying to keep my sanity in check.
+//- 🥅 Goals for 2022: Start a new personal project, GRE prep.
 
 ### Connect with me:
 [<img align="left" width="40" src="https://user-images.githubusercontent.com/56875895/163595849-ff3c04be-c14c-4f5b-8a11-ae5b8e0f0020.png" alt="my linkedin">](https://www.linkedin.com/in/aakash-sai/) 
