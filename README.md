@@ -1,5 +1,5 @@
 ## Hi there, I'm Aakash 👋
-- 📕 Currently pursuing my 3rd year in B.Sc Computer Science and Engineering at [Bits Pilani Dubai Campus](https://www.bits-pilani.ac.in/Dubai/index.aspx).
+- 📕 Currently pursuing my 3rd year in B.E Computer Science and Engineering at [Bits Pilani Dubai Campus](https://www.bits-pilani.ac.in/Dubai/index.aspx).
 <!-- 😣 Currently trying to keep my sanity in check.
 - 🥅 Goals for 2022: Start a new personal project, GRE prep. -->
 
