@@ -8,7 +8,7 @@
 [<img align="left" width="40" src="https://user-images.githubusercontent.com/56875895/163595849-ff3c04be-c14c-4f5b-8a11-ae5b8e0f0020.png" alt="my linkedin">](https://www.linkedin.com/in/aakash-sai/)
 <br />
 <br />
-
+<!--
 ### Languages and Tools:
 <img align="left" width="40" src="https://user-images.githubusercontent.com/56875895/163599036-950d3196-cf1f-4ecc-9380-88d8ef16e5dd.png" alt="visual studio code">
 <img align="left" width="40" src="https://user-images.githubusercontent.com/56875895/163599030-82558cbf-1e66-4ad8-8198-e371c3bf94e6.png" alt="html">
@@ -18,3 +18,4 @@
 <img align="left" width="40" src="https://user-images.githubusercontent.com/56875895/163599016-c594578a-757b-4dd9-b5b5-b1866dbf8356.png" alt="python">
 <br />
 <br />
+-->
