@@ -4,8 +4,7 @@
 <!-- 😣 Currently trying to keep my sanity in check.
 - 🥅 Goals for 2022: Start a new personal project, GRE prep. -->
 
-### Connect with me on Linkedin
-[<img align="left" width="40" src="https://user-images.githubusercontent.com/56875895/163595849-ff3c04be-c14c-4f5b-8a11-ae5b8e0f0020.png" alt="my linkedin">](https://www.linkedin.com/in/aakash-sai/)
+### Linkedin [<img align="left" width="40" src="https://user-images.githubusercontent.com/56875895/163595849-ff3c04be-c14c-4f5b-8a11-ae5b8e0f0020.png" alt="my linkedin">](https://www.linkedin.com/in/aakash-sai/)
 
 <br />
 <br />
