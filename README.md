@@ -1,6 +1,6 @@
 ## Hi there, I'm Aakash 👋
 - :man_student: Graduated with a Bachelor's degree in Computer Science from [Bits Pilani Dubai Campus](https://www.bits-pilani.ac.in/dubai/).
-- 📕 Currently pursuing my Master's degree in Data Science & Analytics at [University of Missouri - Columbia](https://muidsi.missouri.edu/academic-programs/m-s-data-science-and-analytics-program/).
+- 📕 Currently pursuing a Master's degree in Data Science & Analytics at [University of Missouri - Columbia](https://muidsi.missouri.edu/academic-programs/m-s-data-science-and-analytics-program/).
 <!-- 😣 Currently trying to keep my sanity in check.
 - 🥅 Goals for 2022: Start a new personal project, GRE prep. -->
 
