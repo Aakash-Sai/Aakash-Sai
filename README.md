@@ -11,3 +11,12 @@ Currently learning and building new things!
 
 ## 🔨 Technologies & Tools I've Worked With
 
+**Frontend:** React · TypeScript · VexFlow · HTML · CSS
+
+**Backend:** Python · FastAPI · Pydantic · HTTPX
+
+**Databases & Backend Services:** PostgreSQL · Microsoft SQL Server · ChromaDB ·  SQLite
+
+**Development Tools & Design:** Git · Node.js · Vite · Docker · Vitest · Pytest · Figma
+
+**Data Science & Machine Learning:** PyTorch · TensorFlow · scikit-learn · NumPy · pandas
